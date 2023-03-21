@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/algorithms2/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/algorithms3/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/gatsby-github-blog/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/gatsby-starter-zoomkoding-introduction/index.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-meta-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-meta-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/page-footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/page-footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post-tabs/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-tabs/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NJ6IFroeILUUtplx5H0UmrXJX8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/algorithms3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +49,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/algorithms3" />
+      <recent name="$PROJECT_DIR$/content/algorithms2" />
+      <recent name="$PROJECT_DIR$/content/a5" />
+      <recent name="$PROJECT_DIR$/content/a4" />
+      <recent name="$PROJECT_DIR$/content/a3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +67,9 @@
       <option name="presentableId" value="Default" />
       <updated>1679369755673</updated>
       <workItem from="1679369757225" duration="1098000" />
-      <workItem from="1679371093287" duration="299000" />
+      <workItem from="1679371093287" duration="4962000" />
+      <workItem from="1679377534043" duration="15000" />
+      <workItem from="1679379170650" duration="1332000" />
     </task>
     <servers />
   </component>
