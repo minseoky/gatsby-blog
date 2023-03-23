@@ -6,7 +6,8 @@ author: 최민석
 tags: 피보나치 수열, 순차검색, 알고리즘, 이진검색
 categories: algorithms
 ---
-![book](XL.jpeg)
+![book](book.jpeg)
+
 <center>교재 : Foundations of Algorithms</center>
 
 ### 알고리즘이란?

@@ -6,10 +6,10 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `minseoky/gatsby-blog`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-J50ZWK04V2', // Google Analytics Tracking ID
   author: {
     name: `최민석`,
     bio: {
@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
+      github: `https://github.com/minseoky`, // `https://github.com/zoomKoding`,
       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      email: `minseok184@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
 

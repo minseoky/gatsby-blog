@@ -36,7 +36,7 @@ categories: algorithms
   - 단위 연산이 수행되는 횟수가 최대(최악)인 경우 선택
 3. 평균의 경우 분석(Average-case analysis)
 
-    💡 Worst-case의 비중이 극히 적을 때 사용
+>    💡 Worst-case의 비중이 극히 적을 때 사용
 
   - 입력크기와 입력 값 모두에 종속
   - 모든 입력에 대해서 단위연산이 수행되는 기대치(평균)

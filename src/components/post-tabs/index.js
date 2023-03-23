@@ -17,7 +17,8 @@ function PostTabs({ tabIndex, onChange, tabs, posts, showMoreButton }) {
           value={tabIndex}
           onChange={onChange}
           variant="scrollable"
-          scrollButtons="desktop"
+          scrollButtons="auto"
+          orientation="horizontal"
         >
           {tabs.map((title, index) => (
             <Tab label={title} key={index} />

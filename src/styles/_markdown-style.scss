@@ -668,9 +668,10 @@
 }
 
 .markdown blockquote {
-  padding: 0 1em;
-  color: #6a737d;
+  padding: 1em 1em;
+  color: var(--primary-text-color);
   border-left: 0.25em solid var(--markdown-blockquote-border-color);
+  background-color: var(--markdown-table-even-cell-background-color);
 }
 
 .markdown blockquote> :first-child {
@@ -853,7 +854,7 @@
 
 .markdown pre code {
   display: inline;
-  max-width: auto;
+  max-width: initial;
   padding: 0;
   margin: 0;
   overflow: visible;
@@ -1043,6 +1044,12 @@
         color: var(--secondary-text-color);
         font-size: 14px;
         border-bottom: none;
+        border-radius: 8px;
+        transition: 0.3s;
+      }
+      a:hover{
+        color: white;
+        background-color: gray;
       }
     }
 
@@ -1051,7 +1058,6 @@
     }
   }
 }
-
 // added for image resizing
 .markdown .gatsby-resp-image-wrapper {
   display: flex !important;

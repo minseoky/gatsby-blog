@@ -58,17 +58,22 @@
       display: flex;
       justify-content: space-between;
       margin-top: auto;
+      margin-bottom: 9px;
       font-size: 14px;
       color: var(--about-link-icon-color);
 
       .categories {
+        color: white;
         display: flex;
 
         .category {
-          margin-left: 4px;
+          background-color: gray;
+          border-radius: 5px;
+          padding:0.3em;
+          margin:auto;
 
           &:hover {
-            text-decoration: underline;
+            text-decoration: none;
           }
         }
       }
