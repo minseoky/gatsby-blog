@@ -90,5 +90,6 @@ public class MergeSort {
 
 - 시간복잡도
   - 배열의 길이 n이라 할때, 단계의 높이는 logn을 따르고, 병합시 비교는 배열의 길이만큼의 횟수가 필요하기 때문에 n이다. 따라서 시간복잡도 O(nlogn)이다.
+  - [최악의 경우 및 점화식 분석](https://nolzaheo.tistory.com/6)
 ```toc
 ```

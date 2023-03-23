@@ -97,12 +97,12 @@ and so on…
 - 재귀적 방식(JAVA)
 
 ```java
-public static long oldpibo(int n){
+public static long oldfibo(int n){
         if(n <= 1){
             return n;
         }
         else{
-            return oldpibo(n-1) + oldpibo(n-2); //재귀호출
+            return oldfibo(n-1) + oldfibo(n-2); //재귀호출
         }
     }
 ```
@@ -111,7 +111,7 @@ public static long oldpibo(int n){
 
 ```java
 static long[] dp = new long[100];//배열 선언
-public static long newpibo(int n){
+public static long newfibo(int n){
     if(n <= 1){
         return n;
     }
@@ -119,7 +119,7 @@ public static long newpibo(int n){
         if(dp[n] > 0){
             return dp[n]; //수가 존재하면 리턴
         }
-        dp[n] = newpibo(n-1) + newpibo(n-2); //수가 없으면 채움
+        dp[n] = newfibo(n-1) + newfibo(n-2); //수가 없으면 채움
         return dp[n];
     }
 }
