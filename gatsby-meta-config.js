@@ -1,8 +1,8 @@
 module.exports = {
-  title: `minseoky`,
+  title: `minseoky.me`,
   description: `개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://minseoky.netlify.app/`,
+  siteUrl: `http://minseoky.me/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
