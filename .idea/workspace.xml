@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/algorithms4/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sample.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms1/XL.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/algorithms1/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/algorithms2/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms3/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/algorithms3/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/github-blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/gatsby-github-blog/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-meta-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-meta-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-card/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-card/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-card/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-content/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-tabs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-tabs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-tabs/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-tabs/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_markdown-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_markdown-style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +26,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/assets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/choiminseok/Git/gatsby-blog/node_modules/prettier",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/choiminseok/Git/gatsby-blog/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/choiminseok/Git/gatsby-blog/node_modules/prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets" />
@@ -90,6 +65,7 @@
       <workItem from="1679447653800" duration="5218000" />
       <workItem from="1679458481840" duration="656000" />
       <workItem from="1679459141550" duration="3568000" />
+      <workItem from="1679535399177" duration="1894000" />
     </task>
     <servers />
   </component>
