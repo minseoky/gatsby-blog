@@ -5,6 +5,8 @@ import Seo from '../components/seo';
 import Bio from '../components/bio';
 import TimeStampSection from '../components/timestamp-section';
 import ProjectSection from '../components/project-section';
+import MainImage1 from "../../assets/main1.jpeg";
+import MainImage2 from "../../assets/main2.jpeg";
 
 function AboutPage({ data }) {
   const metaData = data.site.siteMetadata;
@@ -14,6 +16,14 @@ function AboutPage({ data }) {
     <Layout>
       <Seo title="About" />
       <Bio author={author} language={language} />
+        <div
+            style={{backgroundColor: 'transparent',
+                    margin: '20px'
+        }}
+        >
+            <img style={{ width: 250, height: 280, margin: '20px' }} src={MainImage1} alt="thumbnail" />
+            <img style={{ width: 250, height: 280, margin: '20px' }} src={MainImage2} alt="thumbnail" />
+        </div>
       <TimeStampSection timestamps={timestamps} />
       <ProjectSection projects={projects} />
     </Layout>

@@ -7,10 +7,16 @@
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/algorithms/Divide-Conquer1/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/algorithms/Divide-Conquer2/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-meta-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-meta-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/BigO/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/BigO/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer1/binary_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Divide-Conquer1/binary_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Divide-Conquer1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer1/merge-sort.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Divide-Conquer1/merge-sort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Divide-Conquer2/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Divide-Conquer2/quicksort.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Divide-Conquer2/quicksort.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/Recursive/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Recursive/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/algorithms101/book.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Algorithms101/book.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/algorithms/algorithms101/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Algorithms/Algorithms101/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/image/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/choiminseok/Git/gatsby-blog/node_modules/prettier",
+    "settings.editor.selected.configurable": "watcher.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +82,8 @@
       <workItem from="1679458481840" duration="656000" />
       <workItem from="1679459141550" duration="3568000" />
       <workItem from="1679535399177" duration="3988000" />
-      <workItem from="1679546453742" duration="1355000" />
+      <workItem from="1679546453742" duration="2050000" />
+      <workItem from="1679551475055" duration="1477000" />
     </task>
     <servers />
   </component>

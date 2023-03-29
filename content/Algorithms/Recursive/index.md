@@ -4,7 +4,7 @@ title: 알고리즘 분석 외
 date: '2023-03-09 00:00:00'
 author: 최민석
 tags: 피보나치 수열, 재귀 알고리즘, 알고리즘 분석, 시간 복잡도, 교환 정렬 알고리즘, 순차 검색 알고리즘, 정확도 분석
-categories: algorithms
+categories: Algorithms
 ---
 ### 피보나치 수열 : 재귀 알고리즘
 

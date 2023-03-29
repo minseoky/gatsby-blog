@@ -4,7 +4,7 @@ title: 차수, Big-O 표기법
 date: '2023-03-15 00:00:00'
 author: 최민석
 tags: 차수, Big-O, small-o
-categories: algorithms
+categories: Algorithms
 ---
 ### 차수(Order)
 

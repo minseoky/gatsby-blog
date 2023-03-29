@@ -4,7 +4,7 @@ title: 알고리즘이란? 외
 date: '2023-03-08 00:00:00'
 author: 최민석
 tags: 피보나치 수열, 순차검색, 알고리즘, 이진검색
-categories: algorithms
+categories: Algorithms
 ---
 ![book](book.jpeg)
 

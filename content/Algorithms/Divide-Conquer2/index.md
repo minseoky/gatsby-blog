@@ -4,7 +4,7 @@ title: 분할-정복2 (Divide and Conquer) 퀵정렬
 date: '2023-03-23 00:00:00'
 author: 최민석
 tags: 분할정복, 퀵 정렬
-categories: algorithms
+categories: Algorithms
 ---
 ## 분할-정복 2
 

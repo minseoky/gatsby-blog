@@ -4,7 +4,7 @@ title: 분할-정복1 (Divide and Conquer) 이진탐색, 병합정렬
 date: '2023-03-22 00:00:00'
 author: 최민석
 tags: 분할정복, 이진탐색, 병합정렬
-categories: algorithms
+categories: Algorithms
 ---
 
 ## 분할-정복1
