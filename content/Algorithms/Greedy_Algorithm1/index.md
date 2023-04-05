@@ -1,6 +1,6 @@
 ---
 emoji: ⚙️
-title: 탐욕 알고리즘
+title: 탐욕 알고리즘1
 date: '2023-03-30 00:00:00'
 author: 최민석
 tags: Greedy Algorithms, Graph
