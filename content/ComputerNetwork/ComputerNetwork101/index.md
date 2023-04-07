@@ -3,7 +3,7 @@ emoji: 🌐
 title: 컴퓨터 네트워크와 인터넷
 date: '2023-03-07 00:00:00'
 author: 최민석
-tags: Greedy Algorithms, Grpah
+tags: Network, Internet, Ethernet
 categories: ComputerNetwork
 ---
 # 인터넷이란?

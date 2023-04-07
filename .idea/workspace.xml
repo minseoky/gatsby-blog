@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/NetworkCore/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/ComputerNetwork101/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ComputerNetwork/ComputerNetwork101/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/Algorithms/Greedy_Algorithm2",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/NetworkCore",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,11 +47,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/ComputerNetwork/NetworkCore" />
       <recent name="$PROJECT_DIR$/content/Algorithms/Greedy_Algorithm2" />
       <recent name="$PROJECT_DIR$/content/Algorithms/ComputerNetwork101" />
       <recent name="$PROJECT_DIR$/content/Algorithms/Greedy_Algorithm1" />
       <recent name="$PROJECT_DIR$/content/Algorithms/Divide-Conquer3" />
-      <recent name="$PROJECT_DIR$/content/algorithms/Divide-Conquer2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -79,6 +82,8 @@
       <workItem from="1680586897252" duration="1326000" />
       <workItem from="1680663561544" duration="558000" />
       <workItem from="1680670937168" duration="600000" />
+      <workItem from="1680698564192" duration="112000" />
+      <workItem from="1680875144433" duration="310000" />
     </task>
     <servers />
   </component>
