@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/NetworkCore/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/Delay/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/ComputerNetwork101/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ComputerNetwork/ComputerNetwork101/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/NetworkCore",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/Delay",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +82,8 @@
       <workItem from="1680663561544" duration="558000" />
       <workItem from="1680670937168" duration="600000" />
       <workItem from="1680698564192" duration="112000" />
-      <workItem from="1680875144433" duration="310000" />
+      <workItem from="1680875144433" duration="591000" />
+      <workItem from="1680926728509" duration="300000" />
     </task>
     <servers />
   </component>
