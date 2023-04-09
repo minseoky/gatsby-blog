@@ -90,7 +90,7 @@ categories: ComputerNetwork
 
 같은 컴퓨터에서 프로세스간 IPC(Inter process communications)를 통해 통신하지만, 다른 컴퓨터(호스트)는 메세지를 통해 통신함.
 
-## Socket
+### Socket
 
 ![Socket.png](Socket.png)
 

@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/NetworkAppPrinciple/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +44,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/ComputerNetwork/NetworkAppPrinciple" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/History" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/Protocol" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/Delay" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/NetworkCore" />
-      <recent name="$PROJECT_DIR$/content/Algorithms/Greedy_Algorithm2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -86,7 +84,7 @@
       <workItem from="1680926728509" duration="349000" />
       <workItem from="1680956909558" duration="261000" />
       <workItem from="1680958288986" duration="77000" />
-      <workItem from="1681002249640" duration="297000" />
+      <workItem from="1681002249640" duration="373000" />
     </task>
     <servers />
   </component>
