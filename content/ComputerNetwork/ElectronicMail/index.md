@@ -85,12 +85,12 @@ categories: ComputerNetwork
 
 [이하 헤더]
 
-To: [receiver@example.com](mailto:receiver@example.com)
-From: [sender@example.com](mailto:sender@example.com)
-CC: [cc@example.com](mailto:cc@example.com)
-BCC: [bcc@example.com](mailto:bcc@example.com)
-Subject: Example Email Message
-Date: April 9, 2023
+To: [receiver@example.com](mailto:receiver@example.com)  
+From: [sender@example.com](mailto:sender@example.com)  
+CC: [cc@example.com](mailto:cc@example.com)  
+BCC: [bcc@example.com](mailto:bcc@example.com)  
+Subject: Example Email Message  
+Date: April 9, 2023  
 
 ---
 

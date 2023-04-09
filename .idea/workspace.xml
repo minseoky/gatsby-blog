@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/ElectronicMail/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_markdown-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_markdown-style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +85,7 @@
       <workItem from="1681002249640" duration="373000" />
       <workItem from="1681002903794" duration="631000" />
       <workItem from="1681017613923" duration="706000" />
-      <workItem from="1681051740139" duration="780000" />
+      <workItem from="1681051740139" duration="920000" />
     </task>
     <servers />
   </component>
