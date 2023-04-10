@@ -33,15 +33,15 @@ categories: ComputerNetwork
 ## APM(Apache, php, MySQL)
 
 - **Apache**
-  리눅스OS에서 작동되는 웹 서버 프로그램
-  MS의 IIS (Internet Information Services)
+  리눅스OS에서 작동되는 웹 서버 프로그램  
+  MS의 IIS (Internet Information Services)  
 - **PHP**
-  유닉스/리눅스에서 지원되는 스크립트 언어
-  HTML문서 내장된
-  MS의 ASP, JSP
+  유닉스/리눅스에서 지원되는 스크립트 언어  
+  HTML문서 내장된  
+  MS의 ASP, JSP  
 - **MySQL**
-  데이터베이스 관리 시스템
-  Oracle, SQL server, etc
+  데이터베이스 관리 시스템  
+  Oracle, SQL server, etc  
 
 ## Java Applet vs. JavaScript
 
