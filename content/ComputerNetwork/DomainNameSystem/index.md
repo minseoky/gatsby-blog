@@ -40,7 +40,7 @@ SSN(사회보장번호), 이름, 여권 번호 등이 있다.
 
 ![DNS1.png](DNS1.png)
 
-라이언트가 **www.amazon.com의** IP 주소를 찾는 과정:
+클라이언트가 **www.amazon.com의** IP 주소를 찾는 과정:
 
 1. 클라이언트는 루트 서버에 쿼리를 보내 com 도메인의 DNS 서버를 찾는다.
 2. 클라이언트는 .com 도메인의 DNS 서버에 쿼리를 보내 amazon.com 도메인의 DNS 서버를 찾는다.
