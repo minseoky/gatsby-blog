@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/DomainNameSystem/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/P2PApplications/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/DomainNameSystem",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/P2PApplications",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,11 +45,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/ComputerNetwork/P2PApplications" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/DomainNameSystem" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/ElectronicMail" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/Web&amp;HTTP" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/NetworkAppPrinciple" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/History" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -93,6 +93,8 @@
       <workItem from="1681089418158" duration="291000" />
       <workItem from="1681108501816" duration="71000" />
       <workItem from="1681153770128" duration="343000" />
+      <workItem from="1681154468962" duration="38000" />
+      <workItem from="1681271884247" duration="312000" />
     </task>
     <servers />
   </component>
