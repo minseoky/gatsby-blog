@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="" />
+    <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming1/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming2/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post-card/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-card/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/CDN",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/ComputerNetwork/SocketProgramming2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,11 +47,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming2" />
+      <recent name="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming1" />
+      <recent name="$PROJECT_DIR$/content/Algorithms/Dynamic_Programming1" />
+      <recent name="$PROJECT_DIR$/content/Algorithms/Greedy_Algorithm3" />
       <recent name="$PROJECT_DIR$/content/ComputerNetwork/CDN" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/P2PApplications" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/DomainNameSystem" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/ElectronicMail" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/Web&amp;HTTP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -93,6 +98,10 @@
       <workItem from="1681154468962" duration="38000" />
       <workItem from="1681271884247" duration="640000" />
       <workItem from="1681312961348" duration="769000" />
+      <workItem from="1681358344248" duration="897000" />
+      <workItem from="1682312748078" duration="317000" />
+      <workItem from="1682473963377" duration="1905000" />
+      <workItem from="1682512923466" duration="3924000" />
     </task>
     <servers />
   </component>
