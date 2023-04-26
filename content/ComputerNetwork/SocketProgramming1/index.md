@@ -231,6 +231,9 @@ public class Server {
 
 ![improved.png](improved.png)
 
-의도대로 동작함을 확인할 수 있다.
+의도대로 동작함을 확인할 수 있습니다.
+
+파일 : <a href="https://github.com/minseoky/2023_socket_programming" target="_blank"><span style="color:slateblue">깃허브 링크</span></a>
+
 ```toc
 ```
