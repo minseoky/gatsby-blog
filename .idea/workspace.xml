@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming1/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming2/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-card/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-card/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming2/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ComputerNetwork/SocketProgramming2/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +102,7 @@
       <workItem from="1682473963377" duration="1905000" />
       <workItem from="1682512923466" duration="3924000" />
       <workItem from="1682528968847" duration="19000" />
+      <workItem from="1682529438724" duration="289000" />
     </task>
     <servers />
   </component>
