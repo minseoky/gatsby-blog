@@ -1,7 +1,7 @@
 ---
 emoji: 🌐
 title: IPv6
-date: '2023-04-15 00:00:00'
+date: '2023-05-15 00:00:00'
 author: 최민석
 tags: Network, IPv6, IP
 categories: ComputerNetwork
