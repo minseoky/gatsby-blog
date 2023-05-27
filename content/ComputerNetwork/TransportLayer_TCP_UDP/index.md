@@ -1,6 +1,6 @@
 ---
 emoji: 🌐
-title: TransportLayer : TCP / UDP
+title: TransportLayer - TCP / UDP
 date: '2023-05-06 00:00:00'
 author: 최민석
 tags: Network, TCP, UDP
