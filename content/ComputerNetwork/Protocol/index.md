@@ -36,7 +36,7 @@ categories: ComputerNetwork
 
 ## ISO/OSI 참조 모델(Open Systems Interconnection Reference Model)
 
-![OSI model.png](OSI model.png)
+![OSI_model.png](OSI_model.png)
 - 응용(Application) 계층: 사용자와 네트워크 간의 상호작용을 담당하며, 응용 프로토콜을 통해 다양한 네트워크 애플리케이션을 지원합니다.
 - 표현(Presentation) 계층: 데이터의 형식을 변환하고 암호화, 압축, 인코딩 등의 기능을 제공하여 응용 계층이 전송할 데이터를 처리합니다.
 - 세션(Session) 계층: 통신을 관리하고 연결을 설정, 유지, 해제하는 등의 기능을 담당하여 응용 프로세스 간의 세션(연결)을 관리합니다.
