@@ -4,7 +4,7 @@ title: 홈페이지 개발 방식 및 후기, 컴퓨터 네트워크 과목을 �
 date: '2023-06-19 00:00:00'
 author: 최민석
 tags: Network, Blog, ComputerNetwork
-categories: ComputerNetwork, Assignments
+categories: ComputerNetwork Assignments
 ---
 # 홈페이지 개발일지
 
