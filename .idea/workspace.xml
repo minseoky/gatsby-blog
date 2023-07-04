@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/TABA/0703/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/TABA/0704/1/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/TABA/0704/2/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/UDP/checksum2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/UDP/header1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ComputerNetwork/UDP/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ComputerNetwork/UDP/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/TABA/0703/1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/TABA/0703/1/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/TABA",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/TABA/0704/2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,11 +50,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/TABA" />
-      <recent name="$PROJECT_DIR$/content/TABA/07.03" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/FinalReview" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/Firewall" />
-      <recent name="$PROJECT_DIR$/content/ComputerNetwork/CellularNetworkSecurity" />
+      <recent name="$PROJECT_DIR$/content/TABA/0704/2" />
+      <recent name="$PROJECT_DIR$/content/TABA/0704/1" />
+      <recent name="$PROJECT_DIR$/content/TABA/0703/2" />
+      <recent name="$PROJECT_DIR$/content/TABA/0703/1" />
+      <recent name="$PROJECT_DIR$/content/TABA/0703" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -111,6 +116,9 @@
       <workItem from="1686904774679" duration="444000" />
       <workItem from="1687148461086" duration="11659000" />
       <workItem from="1688371111253" duration="808000" />
+      <workItem from="1688371923731" duration="2780000" />
+      <workItem from="1688429064151" duration="1834000" />
+      <workItem from="1688446194212" duration="1737000" />
     </task>
     <servers />
   </component>
