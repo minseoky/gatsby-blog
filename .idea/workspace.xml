@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1566e478-46fc-4977-b481-fd320ced3394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/TABA/0704/3/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/TABA/0705/1/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/TABA/0703/1/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/TABA/0703/1/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/TABA/0704/3/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/TABA/0704/3/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/TABA/0704/3",
+    "last_opened_file_path": "/Users/choiminseok/Git/gatsby-blog/content/TABA/0705/1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,11 +46,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/TABA/0705/1" />
       <recent name="$PROJECT_DIR$/content/TABA/0704/3" />
       <recent name="$PROJECT_DIR$/content/TABA/0704/2" />
       <recent name="$PROJECT_DIR$/content/TABA/0704/1" />
       <recent name="$PROJECT_DIR$/content/TABA/0703/2" />
-      <recent name="$PROJECT_DIR$/content/TABA/0703/1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/ComputerNetwork" />
@@ -114,7 +114,8 @@
       <workItem from="1688371111253" duration="808000" />
       <workItem from="1688371923731" duration="2780000" />
       <workItem from="1688429064151" duration="1834000" />
-      <workItem from="1688446194212" duration="4094000" />
+      <workItem from="1688446194212" duration="4362000" />
+      <workItem from="1688515631811" duration="1812000" />
     </task>
     <servers />
   </component>

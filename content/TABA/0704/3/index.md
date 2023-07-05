@@ -79,7 +79,6 @@ categories: OperatingSystem TABA
 > 위 간트 차트는 **Time Quantum = 4**일 때
 
 - 모든 프로세스는 (n-1)q 시간 이상 기다리지 않음
-- Waiting Time(대기 시간)은 각각의 Execution Time(실행 시간)에 비례함.
 
 ![a6.png](a6.png)
 
