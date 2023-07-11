@@ -304,6 +304,52 @@ SELECT ename, sal FROM s_emp WHERE deptno = 30 ORDER BY sal DESC;
 
 ![a23.png](a23.png)
 
+### 권한 제어
+
+- 유저 생성
+
+```sql
+CREATE USER "USER_NAME" IDENTIFIED BY "USER_PASSWORD";
+```
+
+- 유저 제거
+
+```sql
+DROP "USER_NAME";
+```
+
+- 권한 부여
+
+```sql
+GRANT "권한내용" TO "USER_NAME" [WITH ADMIN OPTION];
+```
+
+**대표적인 시스템 권한**
+
+> **create Session : 데이터 베이스를 연결할 수 있는 권한  
+> create table  : 테이블을 생성할 수 있는 권한  
+> create sequence : 시퀀스를 생성할 수 있는 권한  
+> create view :  뷰를 생성할 수 있는 권한  
+> create procedure : 프로시저를 생성할 수 있는 권한  
+> create role : 오라클 데이터베이스 역할을 생성할 수 있는 권한  
+> alter user:  생성한 사용자의 정의를 변경할 수 있는 권한  
+> drop user:  생성한 사용자를 삭제시키는 권한  
+> WITH ADMIN OPTION : 권한 받은 내용을 다른 사용자에게 부여할 수 있는 권한 부여**
+
+- ROLE 생성
+
+```sql
+CREATE ROLE "ROLE_NAME";
+```
+
+- ROLE에 권한 부여
+
+```sql
+GRANT "권한내용" TO "ROLE_NAME";
+```
+
+- 사용자에게 ROLE 부여
+
 ### 조건 연산자
 
 ![a24.png](a24.png)
