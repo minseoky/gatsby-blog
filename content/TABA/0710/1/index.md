@@ -4,7 +4,7 @@ title: 07.10(월)-1 MySQL 기초
 date: '2023-07-10 00:00:00'
 author: 최민석
 tags: Database, MySQL
-categories: DB MySQL TABA
+categories: DB SQL TABA
 ---
 > ❗️**날짜별로 정리하여 복습하기를 원하기 때문에 내용이 길고 다소 정리되지 않았습니다.**
 ## MySQL
